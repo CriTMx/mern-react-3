@@ -1,0 +1,24 @@
+.pick-btn
+{
+    margin: 350px auto 0 auto;
+}
+
+.pick-btn .btn
+{
+    padding: 15px 30px;
+    font-size: 18px;
+    /* background-color: rgb(180, 37, 85); */
+    border: 0;
+    border-radius: 10px;
+    /* color: white; */
+}
+
+.pick-btn .btn:hover
+{
+    border: 3px solid rgb(190, 36, 87);
+}
+
+.pick-btn .btn:active
+{
+    border: 3px solid rgb(151, 27, 69);
+}

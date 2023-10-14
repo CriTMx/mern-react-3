@@ -1,0 +1,78 @@
+.color-list
+{
+    background-color: rgba(255, 255, 255, 0.2);
+    width: max-content;
+    margin: 20px auto;
+    border: 2px solid rgb(180, 37, 85);
+    border-radius: 10px;
+}
+
+.color-list .row
+{
+    margin: 20px;
+    padding: 5px 15px;
+}
+
+.color-list .clr-btn
+{
+    margin: 20px;
+    width: 50px;
+    height: 50px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.color-list .clr-btn:hover
+{
+    border: 1px solid black;
+}
+
+#black
+{
+    background-color: rgb(50, 50, 50);
+}
+
+#brown
+{
+    background-color: rgb(97, 62, 52);
+}
+
+#red
+{
+    background-color: rgb(156, 42, 42);
+}
+
+#orange
+{
+    background-color: rgb(207, 139, 62);
+}
+
+#yellow
+{
+    background-color: rgb(223, 199, 64);
+}
+
+#white
+{
+    background-color: rgb(220, 220, 220);
+}
+
+#green
+{
+    background-color: rgb(60, 180, 106);
+}
+
+#blue
+{
+    background-color: rgb(59, 121, 214);
+}
+
+#indigo
+{
+    background-color: rgb(47, 47, 99);
+}
+
+#violet
+{
+    background-color: rgb(109, 53, 134);
+}

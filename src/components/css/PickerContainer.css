@@ -1,0 +1,10 @@
+.picker-container
+{
+    background-color: rgb(89, 103, 126);
+    width: 60%;
+    height: 800px;
+    margin: 0 auto;
+    border: 5px solid rgb(180, 37, 85);
+    border-radius: 18px;
+    position: relative;
+}
